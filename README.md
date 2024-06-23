@@ -13,6 +13,7 @@ Clone the project files to your local machine using the following command in you
 """bash
 git clone https://github.com/berkeryalc1n/MovieRecommendation
 cd Main.py
+"""
 
 ### Step 2: Creating the Virtual Environment
 Create a virtual environment to manage dependencies:
@@ -23,12 +24,14 @@ source venv/bin/activate  # Activate virtual environment (MacOS/Linux) or
 .\venv\Scripts\activate  # Activate virtual environment (Windows)
 
 pip install -r requirements.txt  # Install dependencies
+"""
 
 ### Step 3: Running the Application
 To launch the application, execute the following command:
 
 """bash
 python main.py
+"""
 
 ## Instructions
 When we run the application, it asks us to enter a movie name. After entering the movie name, if the movie is in our dataset, it calculates the similarity of the movie summaries using the TF-IDF Vectorizer and recommends five similar movies. If the entered movie is not in the dataset, an error message is displayed and the application terminates.
@@ -48,6 +51,7 @@ Proje dosyalarını yerel makinenize klonlamak için terminalde şu komutu kulla
 """ bash
 git clone https://github.com/berkeryalc1n/MovieRecommendation
 cd Main.py
+"""
 
 ### Adım 2: Sanal Ortamın Oluşturulması
 Bağımlılıkları yönetmek için sanal bir ortam oluşturun:
@@ -58,12 +62,14 @@ source venv/bin/activate  # Sanal ortamı etkinleştirme (MacOS/Linux) veya
 .\venv\Scripts\activate  # Sanal ortamı etkinleştirme (Windows)
 
 pip install -r requirements.txt  # Gereksinimlerin yüklenmesi
+"""
 
 ### Adım 3: Uygulamanın açılması
 Uygulamayı başlatmak için aşağıdaki komutu yürütün:
 
 """bash
 python main.py
+"""
 
 ## Kullanım Talimatları
 [TR] Uygulamayı çalıştırdığımız zaman uygulama bizden bir film ismi girmemizi istiyor. Film ismini girdikten sonra eğer girilen film veri setimizde varsa TF-IDF Vectorizer kullanarak filmlerin özet bilgilerinin benzerliğini hesaplar ve benzer beş adet filmi önerir. Eğer girilen film veri setinde yoksa hata mesajı ekrana yazdırılır ve uygulama sonlanır.
