@@ -4,8 +4,8 @@ The purpose of this project is to receive a movie input from the user, search fo
 ## Setup
 To run this project, you will need the following software and libraries:
 
-1)Python 3.12 or newer
-2)Other dependencies
+- Python 3.12 or newer
+- Other dependencies
 
 ### Step 1: Cloning the Project
 Clone the project files to your local machine using the following command in your terminal:
