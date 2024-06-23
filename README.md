@@ -70,7 +70,7 @@ python main.py
 ```
 
 ## Kullanım Talimatları
-[TR] Uygulamayı çalıştırdığımız zaman uygulama bizden bir film ismi girmemizi istiyor. Film ismini girdikten sonra eğer girilen film veri setimizde varsa TF-IDF Vectorizer kullanarak filmlerin özet bilgilerinin benzerliğini hesaplar ve benzer beş adet filmi önerir. Eğer girilen film veri setinde yoksa hata mesajı ekrana yazdırılır ve uygulama sonlanır.
-[TR] 
+Uygulamayı çalıştırdığımız zaman uygulama bizden bir film ismi girmemizi istiyor. Film ismini girdikten sonra eğer girilen film veri setimizde varsa TF-IDF Vectorizer kullanarak filmlerin özet bilgilerinin benzerliğini hesaplar ve benzer beş adet filmi önerir. Eğer girilen film veri setinde yoksa hata mesajı ekrana yazdırılır ve uygulama sonlanır.
+
 
 
