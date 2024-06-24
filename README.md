@@ -6,6 +6,7 @@ To run this project, you will need the following software and libraries:
 
 - Python 3.12 or newer
 - Other dependencies
+- Data Set : https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata/data
 
 ### Step 1: Cloning the Project
 Clone the project files to your local machine using the following command in your terminal:
@@ -43,6 +44,7 @@ Bu projenin amacı kullanıcıdan film girdisi alıp bu filmi veri setinde arata
 Projenin çalışması için aşağıdaki yazılımlara ve kütüphanelere ihtiyaç vardır:
 - Python 3.12 veya daha yeni bir sürüm
 - Diğer gereksinimler
+- Veri Seti : https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata/data
 
 ### Adım 1: Projenin İndirilmesi
 Proje dosyalarını yerel makinenize klonlamak için terminalde şu komutu kullanın:
